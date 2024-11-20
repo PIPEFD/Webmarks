@@ -1,0 +1,28 @@
+body {
+    background-color: linen;
+}
+h1 {
+    color: black;
+    margin-left: 40px;
+} 
+
+
+table, th, td {
+   border: 1px solid black;
+
+}
+}
+
+.button {
+    background-color:#6495ED;
+    border-radius: 16px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 7px 2px;
+    cursor: pointer;
+}
+
